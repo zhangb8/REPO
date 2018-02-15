@@ -1,4 +1,3 @@
-# REPO
 ##Individual Assignment 4 Part 1: Git Usage
 
 In this assignment, you will get familiar with Git and some of its main features. The assignment assumes that you are working from the command line, and we will simulate the presence of multiple users by using two terminal windows. If you are already familiar with Git and a specific Git client, feel free to use that, as long as you do what the assignment requires.
