@@ -38,7 +38,7 @@ Also, if you have not already done so, go to this link: https://github.com/CMSC-
 5.	Go to directory REPO/Part1
 6.	Create and switch to the “addPhone” branch
 7.	Edit the file called myinfo.txt and change your zip code to a phone number and add your eID in a separate line
-8.	Commit the file to your local repo (it should be in branch “development”) with comment “Add phone and eID”
+8.	Commit the file to your local repo (it should be in branch “addPhone”) with comment “Add phone and eID”
 9.	Push the branch, "addPhone" to the remote repository
 
 ####Part 3 (Terminal 1)
@@ -46,13 +46,13 @@ Also, if you have not already done so, go to this link: https://github.com/CMSC-
 2.	Create a branch called “addEmail” and switch to it
 3.	Edit file myinfo.txt and add your email in a separate line 
 4.	Commit the file to your local repo (it should be in branch “addEmail”) with comment “Add email”
-5.	Update and push the master to the remote repository. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the development branch with the master. (Any commit message is fine for the merged file.)
+5.	Update and push the master to the remote repository. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the addEmail branch with the master. (Any commit message is fine for the merged file.)
 6.	Tag the current version of the master as “Version1” and push the tag to the remote repository.
 
 ####Part 4 (Terminal 2)
 1.	Go back to the second terminal
 2.	Switch to the “addEmail” branch if you are not already on it
-3.	You are now going to integrate the change you made to the "addEmail" branch with the remote repository's master. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the development branch with the master. (Any commit message is fine for the merged file.)
+3.	You are now going to integrate the change you made to the "addEmail" branch with the remote repository's master. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the addPhone branch with the master. (Any commit message is fine for the merged file.)
 4.	Tag the current version of the master as “Version2” and push the tag to the remote repository.
 
 To submit your assignment, post in Blackboard 
