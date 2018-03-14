@@ -51,8 +51,8 @@ Also, if you have not already done so, go to this link: https://github.com/CMSC-
 
 ####Part 4 (Terminal 2)
 1.	Go back to the second terminal
-2.	Switch to the “addEmail” branch if you are not already on it
-3.	You are now going to integrate the change you made to the "addEmail" branch with the remote repository's master. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the addPhone branch with the master. (Any commit message is fine for the merged file.)
+2.	Switch to the “addPhone” branch if you are not already on it
+3.	You are now going to integrate the change you made to the "addPhone" branch with the remote repository's master. To do so, you will have to suitably pull the master from the remote repository and handle conflicts. In handling conflicts, make sure not to lose any content, not to have any of the extra text added by Git to mark the conflicting parts, and to preserve the order of the information as it appears in the assignment.  You will then merge the changes made in the addPhone branch with the master. (Any commit message is fine for the merged file.)
 4.	Tag the current version of the master as “Version2” and push the tag to the remote repository.
 
 To submit your assignment, post in Blackboard 
